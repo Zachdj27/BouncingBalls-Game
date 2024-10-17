@@ -1,6 +1,7 @@
 # Bouncy Ball Game
 
 A simple browser-based game where multiple balls bounce around the screen, and you control an **Evil Ball** using the `W`, `A`, `S`, and `D` keys to eliminate them by touch. The goal is to capture all the balls.
+<img width="1512" alt="Screenshot 2024-10-16 at 9 44 49 PM" src="https://github.com/user-attachments/assets/85299111-7b9a-43a4-a866-0439ca936313">
 
 ## Features
 
